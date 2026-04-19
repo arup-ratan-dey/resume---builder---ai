@@ -43,6 +43,9 @@ An intelligent, full-stack resume builder powered by AI — create, customize, a
 ### Upload
 ![Upload](./screenshots/upload.png)
 
+### Create
+![Create](./screenshots/create.png)
+
 ### Classic Template
 ![Classic Template](./screenshots/classic.png)
 
