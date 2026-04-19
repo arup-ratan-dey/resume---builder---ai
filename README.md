@@ -22,17 +22,38 @@ An intelligent, full-stack resume builder powered by AI — create, customize, a
 
 ## 🖼️ Screenshots
 
-### Home Page
-![Home Page](./screenshots/home.png)
+### Features Page
+![Features Page](./screenshots/features.png)
 
-### Resume Builder
-![Resume Builder](./screenshots/builder.png)
+### Testimonials Page
+![Testimonials Page](./screenshots/testimonials.png)
 
-### Template Selection
-![Templates](./screenshots/templates.png)
+### Contact Page
+![Contact Page](./screenshots/contact.png)
+
+### SignUp Page
+![SignUp Page](./screenshots/signup.png)
+
+### Login Page
+![Login Page](./screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](./screenshots/dashboard.png)
+
+### Upload
+![Upload](./screenshots/upload.png)
+
+### Classic Template
+![Classic Template](./screenshots/classic.png)
+
+### Modern Template
+![Modern Template](./screenshots/modern.png)
+
+### Minimal Image Template
+![Minimal Image Template](./screenshots/minimalimage.png)
+
+### Minimal Template
+![Minimal Template](./screenshots/minimal.png)
 
 ---
 
