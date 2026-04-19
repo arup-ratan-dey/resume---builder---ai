@@ -1,6 +1,6 @@
 # 📄 Resume Builder AI
 
-An intelligent, full-stack resume builder powered by AI — create, customize, and export professional resumes in minutes.
+An intelligent, full-stack resume builder powered by AI - create, customize, and export professional resumes in minutes.
 
 ![Hero Screenshot](./screenshots/hero.png)
 
@@ -8,15 +8,15 @@ An intelligent, full-stack resume builder powered by AI — create, customize, a
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Writing** — Enhance your professional summary and job descriptions with one click using OpenAI
-- 📤 **PDF Resume Import** — Upload an existing PDF resume and let AI automatically extract and populate your data
-- 🎨 **Multiple Templates** — Choose from Classic, Minimal, Minimal with Image, and Modern resume templates
-- 🎨 **Custom Accent Colors** — Personalize your resume with a built-in color picker
-- 👁️ **Live Preview** — See real-time changes as you fill in your details
-- 🔐 **Authentication** — Secure user login & registration with JWT
-- ☁️ **Cloud Image Upload** — Profile photo upload via ImageKit CDN
-- 💾 **Auto Save** — Resumes are saved to the database automatically
-- 📥 **PDF Export** — Download your finished resume as a PDF
+- 🤖 **AI-Powered Writing** - Enhance your professional summary and job descriptions with one click using OpenAI
+- 📤 **PDF Resume Import** - Upload an existing PDF resume and let AI automatically extract and populate your data
+- 🎨 **Multiple Templates** - Choose from Classic, Minimal, Minimal with Image, and Modern resume templates
+- 🎨 **Custom Accent Colors** - Personalize your resume with a built-in color picker
+- 👁️ **Live Preview** - See real-time changes as you fill in your details
+- 🔐 **Authentication** - Secure user login & registration with JWT
+- ☁️ **Cloud Image Upload** - Profile photo upload via ImageKit CDN
+- 💾 **Auto Save** - Resumes are saved to the database automatically
+- 📥 **PDF Export** - Download your finished resume as a PDF
 
 ---
 
