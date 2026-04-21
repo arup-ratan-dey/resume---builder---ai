@@ -10,8 +10,8 @@ An intelligent, full-stack resume builder powered by AI - create, customize, and
 
 | Resource | Link |
 |----------|------|
-| 📋 **SRS Document** | [Software Requirements Specification (PDF)](./docs/SRS.pdf) |
-| 🎯 **Presentation Slides** | [Project Presentation (PDF)](./docs/PresentationSlide.pdf) |
+| 📋 **SRS Document** | [Software Requirements Specification (PDF)](./Docs/SRS.pdf) |
+| 🎯 **Presentation Slides** | [Project Presentation (PDF)](./Docs/PresentationSlide.pdf) |
 | 🌐 **Live Demo** | [resume-builder-ai-client-lqa1.onrender.com](https://resume-builder-ai-client-lqa1.onrender.com) |
 
 ---
