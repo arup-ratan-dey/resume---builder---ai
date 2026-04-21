@@ -1,10 +1,18 @@
 # 📄 Resume Builder AI
 
-🌐 **Live Demo:** https://resume-builder-ai-client-lqa1.onrender.com
-
 An intelligent, full-stack resume builder powered by AI - create, customize, and export professional resumes in minutes.
 
 ![Hero Screenshot](./screenshots/hero.png)
+
+---
+
+## 📚 Documentation & Resources
+
+| Resource | Link |
+|----------|------|
+| 📋 **SRS Document** | [Software Requirements Specification (PDF)](./docs/SRS.pdf) |
+| 🎯 **Presentation Slides** | [Project Presentation (PDF)](./docs/PresentationSlide.pdf) |
+| 🌐 **Live Demo** | [resume-builder-ai-client-lqa1.onrender.com](https://resume-builder-ai-client-lqa1.onrender.com) |
 
 ---
 
