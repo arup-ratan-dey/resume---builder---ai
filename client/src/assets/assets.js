@@ -236,7 +236,7 @@ export const dummyResumeData = [
     },
     {
         // =====================================================
-        // 2. MINIMAL TEMPLATE (ছবি ছাড়া)
+        // 2. MINIMAL TEMPLATE 
         // =====================================================
         _id: "resume_minimal_002",
         title: "Ethan Chen - Minimal",
